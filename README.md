@@ -1,2 +1,1 @@
-# rishi
-this is for my use
+this is my first github file
